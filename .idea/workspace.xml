@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2fe7bfa-2bcf-4dcc-b253-870ddd63b851" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/models/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Profile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keys/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/keys/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/profile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/devconnector_2.0-master" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -40,7 +46,21 @@
       <workItem from="1610877179795" duration="4790000" />
       <workItem from="1610896537326" duration="601000" />
       <workItem from="1610953142616" duration="7938000" />
-      <workItem from="1610976183680" duration="1375000" />
+      <workItem from="1610976183680" duration="2527000" />
+      <workItem from="1610983138628" duration="1891000" />
+      <workItem from="1611142255776" duration="347000" />
+      <workItem from="1611142790324" duration="598000" />
+      <workItem from="1611187395730" duration="1003000" />
+      <workItem from="1611226231708" duration="2799000" />
+      <workItem from="1611249331340" duration="6114000" />
+      <workItem from="1611275219744" duration="1362000" />
+      <workItem from="1611303584331" duration="7569000" />
+      <workItem from="1611482257119" duration="3336000" />
+      <workItem from="1611530119615" duration="4294000" />
+      <workItem from="1611576506598" duration="686000" />
+      <workItem from="1611586808038" duration="5532000" />
+      <workItem from="1611601651509" duration="4014000" />
+      <workItem from="1611609315842" duration="737000" />
     </task>
     <servers />
   </component>
