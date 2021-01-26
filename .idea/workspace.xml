@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2fe7bfa-2bcf-4dcc-b253-870ddd63b851" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/models/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/Landing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/auth/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/auth/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/img/showcase.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keys/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/keys/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +31,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/devconnector_2.0-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/img" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Portifolio\EmployMe\client\src\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +65,9 @@
       <workItem from="1611576506598" duration="686000" />
       <workItem from="1611586808038" duration="5532000" />
       <workItem from="1611601651509" duration="4014000" />
-      <workItem from="1611609315842" duration="737000" />
+      <workItem from="1611609315842" duration="2631000" />
+      <workItem from="1611691169057" duration="807000" />
+      <workItem from="1611692304551" duration="4313000" />
     </task>
     <servers />
   </component>
