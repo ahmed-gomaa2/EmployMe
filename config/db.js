@@ -1,5 +1,4 @@
 const mongoose = require('mongoose');
-const config = require('config');
 const mongoURI = require('../keys/index').mongURI;
 
 const connectDB = async () => {

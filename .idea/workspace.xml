@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a2fe7bfa-2bcf-4dcc-b253-870ddd63b851" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/component/Landing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/auth/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/auth/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/img/showcase.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/DashboardAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Education.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Experience.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/layout/Alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/layout/Spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profile-form/AddEducation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profile-form/AddExperience.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profile-form/CreateProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profile-form/EditProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/routing/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utls/setAuthToken.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/client/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/component/Landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/layout/Landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/component/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/layout/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/component/auth/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/auth/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/component/auth/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/auth/Register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/profile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +63,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1nBxBZE1IzxwA2HZMn4LkJHZTL6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -31,13 +84,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Portifolio\EmployMe\client\src\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Portifolio\EmployMe\client\src\component\layout" />
+      <recent name="E:\Portifolio\EmployMe\client\src\reducers" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +125,22 @@
       <workItem from="1611601651509" duration="4014000" />
       <workItem from="1611609315842" duration="2631000" />
       <workItem from="1611691169057" duration="807000" />
-      <workItem from="1611692304551" duration="4313000" />
+      <workItem from="1611692304551" duration="4566000" />
+      <workItem from="1611753443181" duration="2713000" />
+      <workItem from="1611757957032" duration="46000" />
+      <workItem from="1611758990144" duration="2679000" />
+      <workItem from="1611783731835" duration="4000" />
+      <workItem from="1611817465751" duration="10257000" />
+      <workItem from="1611850140765" duration="5094000" />
+      <workItem from="1611929577996" duration="3015000" />
+      <workItem from="1611951285781" duration="4249000" />
+      <workItem from="1611955616811" duration="801000" />
+      <workItem from="1612020391440" duration="3992000" />
+      <workItem from="1612049580340" duration="4234000" />
+      <workItem from="1612053900971" duration="12000" />
+      <workItem from="1612061028678" duration="977000" />
+      <workItem from="1612098033857" duration="430000" />
+      <workItem from="1612099285102" duration="2037000" />
     </task>
     <servers />
   </component>
