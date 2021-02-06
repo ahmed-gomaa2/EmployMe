@@ -75,6 +75,12 @@ const Register = (props) => {
     );
 };
 
+Register.prototype = {
+    isAuthenticated: PropTypes.bool.isRequired,
+    setAlert: PropTypes.func.isRequired,
+    register: PropTypes.func.isRequired
+}
+
 const mapStateToProps = state => ({
     isAuthenticated: state.auth.isAuthenticated
 })

@@ -12,8 +12,10 @@ import {deleteAccount} from "../../actions/profile";
 const Dashboard = ({auth: {user},deleteAccount, getCurrentProfile, profile: {profile, loading}}) => {
 
     React.useEffect(() => {
+        console.log('render')
         getCurrentProfile();
-    }, [])
+    }, [getCurrentProfile])
+
     return loading && profile === null ? <Spinner /> : <Fragment>
         <h1 className={'large text-primary'}>Dashboard</h1>
         <p>

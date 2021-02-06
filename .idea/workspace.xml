@@ -20,41 +20,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2fe7bfa-2bcf-4dcc-b253-870ddd63b851" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/actions/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/DashboardAction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Education.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/dashboard/Experience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/layout/Alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/layout/Spinner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile-form/AddEducation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile-form/AddExperience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile-form/CreateProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/profile-form/EditProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/component/routing/PrivateRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/utls/setAuthToken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/actions/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/post/CommentForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/post/CommentItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/post/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/posts/PostForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/posts/PostItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/posts/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profile/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileAbout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileEducation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileExperience.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileGithub.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profile/ProfileTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profiles/ProfileItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/component/profiles/Profiles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/client/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/component/Landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/layout/Landing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/component/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/layout/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/component/auth/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/auth/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/component/auth/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/auth/Register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/component/dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/dashboard/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/component/dashboard/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/dashboard/Education.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/component/dashboard/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/dashboard/Experience.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/component/layout/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/layout/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/component/profile-form/CreateProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/profile-form/CreateProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/component/profile-form/EditProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/component/profile-form/EditProfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +78,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/udemy/[FreeCourseSite.com] Udemy -MERN Stack Front To Back Full Stack React, Redux &amp; Node.js/6. Getting Started With React &amp; The Frontend/devconnector_html_theme" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -94,6 +88,7 @@
       <recent name="E:\Portifolio\EmployMe\client\src\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Portifolio\EmployMe\client\src\component\post" />
       <recent name="E:\Portifolio\EmployMe\client\src\component\layout" />
       <recent name="E:\Portifolio\EmployMe\client\src\reducers" />
     </key>
@@ -140,7 +135,17 @@
       <workItem from="1612053900971" duration="12000" />
       <workItem from="1612061028678" duration="977000" />
       <workItem from="1612098033857" duration="430000" />
-      <workItem from="1612099285102" duration="2037000" />
+      <workItem from="1612099285102" duration="4447000" />
+      <workItem from="1612119179618" duration="535000" />
+      <workItem from="1612154328690" duration="5236000" />
+      <workItem from="1612193361406" duration="574000" />
+      <workItem from="1612230973860" duration="338000" />
+      <workItem from="1612280040144" duration="4582000" />
+      <workItem from="1612309939785" duration="6578000" />
+      <workItem from="1612376380783" duration="4791000" />
+      <workItem from="1612414731725" duration="4266000" />
+      <workItem from="1612514008948" duration="3799000" />
+      <workItem from="1612637500396" duration="2920000" />
     </task>
     <servers />
   </component>
